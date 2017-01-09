@@ -1,19 +1,10 @@
-# TUPLE
+# deftuple
 
-**TODO: Add description**
+## Record-like API for tuples
 
-## Installation
+The code that forms TUPLE module in this application has been extracted from
+Tuple module on [deftuple](https://github.com/wrachwal/elixir/commits/deftuple)
+branch of forked Elixir repo.
 
-If [available in Hex](https://hex.pm/docs/publish), the package can be installed
-by adding `deftuple` to your list of dependencies in `mix.exs`:
-
-```elixir
-def deps do
-  [{:deftuple, "~> 0.1.0"}]
-end
-```
-
-Documentation can be generated with [ExDoc](https://github.com/elixir-lang/ex_doc)
-and published on [HexDocs](https://hexdocs.pm). Once published, the docs can
-be found at [https://hexdocs.pm/deftuple](https://hexdocs.pm/deftuple).
-
+API was proposed on [elixir-core](https://groups.google.com/d/msg/elixir-lang-core/COuXyaL5OVQ/8PiF-HkkAwAJ)
+mailing list, but the proposal, at least for now, rejected.
